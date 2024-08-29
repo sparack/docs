@@ -1,17 +1,17 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "description": "Twitter API v2 available endpoints",
+        "description": "X API v2 available endpoints",
         "version": "2.108",
-        "title": "Twitter API v2",
-        "termsOfService": "https://developer.twitter.com/en/developer-terms/agreement-and-policy.html",
+        "title": "X API v2",
+        "termsOfService": "https://developer.x.com/en/developer-terms/agreement-and-policy.html",
         "contact": {
-            "name": "Twitter Developers",
-            "url": "https://developer.twitter.com/"
+            "name": "X Developers",
+            "url": "https://developer.x.com/"
         },
         "license": {
-            "name": "Twitter Developer Agreement and Policy",
-            "url": "https://developer.twitter.com/en/developer-terms/agreement-and-policy.html"
+            "name": "X Developer Agreement and Policy",
+            "url": "https://developer.x.com/en/developer-terms/agreement-and-policy.html"
         }
     },
     "paths": {
